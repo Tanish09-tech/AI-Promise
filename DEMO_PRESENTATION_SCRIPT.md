@@ -1,57 +1,46 @@
-# 🎙️ COMMIT — 3-Minute Project Submission Demo Script
+# 🎙️ COMMIT — 3-Minute Project Demo & Subtitle Script
 
 > **Project Name:** COMMIT — B2B Receivables & Payment Recovery OS  
 > **Repository:** https://github.com/Tanish09-tech/AI-Promise  
-> **Demo Video File:** [`COMMIT_Submission_Demo_3Min.mp4`](file:///d:/AI%20Promise/COMMIT_Submission_Demo_3Min.mp4)  
+> **Subtitled Video File:** [`COMMIT_Submission_Demo_3Min.mp4`](file:///d:/AI%20Promise/COMMIT_Submission_Demo_3Min.mp4)  
 
 ---
 
-## 🕒 Timestamp Breakdown & Voiceover Narration
+## 📺 On-Screen Subtitle & Scene Breakdown
 
-### [0:00 - 0:10] Intro Title Card
-> *"Welcome to COMMIT — the intelligent B2B Receivables & Payment Recovery Operating System. In B2B commerce, millions of dollars are locked in uncollected invoices because informal customer payment promises made via email or chat are lost or untracked. COMMIT solves this by turning unstructured promises into verified, auto-reconciled financial commitments."*
-
----
-
-### [0:10 - 0:30] Executive Dashboard & Recovery Metrics
-> *"Here on the main Executive Dashboard, finance and AR teams get instant visibility into Total Overdue Balances, Revenue at Risk, Verified Payments, and real-time Recovery Efficiency. The dynamic aging bucket charts automatically segment accounts into low, medium, high, and critical risk categories."*
-
----
-
-### [0:30 - 0:55] Invoices Ledger & Razorpay Gateway Integration
-> *"Under the Invoices tab, we see the complete B2B receivables ledger. Clicking any invoice brings up its detailed line items and payment history. With a single click on 'Pay via Razorpay', COMMIT dynamically generates an online payment order link directly linked to the invoice balance."*
-
----
-
-### [0:55 - 1:15] Commitment Lifecycle Tracker Engine
-> *"The core engine tracks every promise through a strict state machine: ACTIVE, FULFILLED, PARTIAL, BROKEN, or EXPIRED. When partial payments are received or deadlines pass without payment, statuses update in real time with full audit logging."*
-
----
-
-### [1:15 - 1:40] Customer Inbox & AI NLP Commitment Extraction
-> *"In the Customer Inbox, incoming emails and messages are processed in real time. For example, when a customer writes: 'I'll pay ₹30,000 tomorrow and ₹20,000 by Friday', COMMIT's NLP extraction engine parses the exact amounts, promised dates, and payment channels instantly."*
-
----
-
-### [1:40 - 2:05] Recovery Decision Engine & Policy Gates
-> *"The Recovery Decision Engine evaluates customer risk bands, grace period rules, and escalation policies. If a promise breaks, the policy gate validates confidence scores and reminder limits before executing automated recovery actions like sending polite follow-ups."*
-
----
-
-### [2:05 - 2:25] Automated Batch Evaluation Scanning
-> *"With one click, the Batch Evaluation Engine scans all active accounts against current system policies, schedules automated reminder actions, and updates recovery yield metrics across the organization."*
-
----
-
-### [2:25 - 2:45] Exception Resolution Center (Human-in-the-Loop)
-> *"For edge-case payment discrepancies or ambiguous dates, the Exception Resolution Center flags cases for manual human-in-the-loop review. AR managers can review evidence, clarify terms, and resolve cases cleanly."*
+| Timestamp | Screen Action / Scene | On-Screen Subtitle Title | Full Subtitle Banner Text |
+|---|---|---|---|
+| **0:00 - 0:10** | Intro Card | **🚀 COMMIT PLATFORM** | Welcome to COMMIT — B2B Receivables & Payment Recovery OS |
+| **0:10 - 0:18** | Dashboard KPIs | **📌 OVERVIEW DASHBOARD** | Real-Time Receivables Metrics: Total Overdue (₹50k+), Verified Paid & Recovery Yield |
+| **0:18 - 0:25** | Risk Breakdown | **📊 AGING BUCKETS** | Categorizing accounts into Low, Medium, High & Critical Risk bands |
+| **0:25 - 0:30** | Recovery Charts | **📈 RECOVERY RATE ANALYTICS** | Tracking historical recovery efficiency and payment promise fulfillment trends |
+| **0:30 - 0:38** | Invoices List | **📄 INVOICES LEDGER** | Managing unpaid B2B customer invoices & outstanding balance tracking |
+| **0:38 - 0:45** | Invoice Detail | **🔍 INVOICE BREAKDOWN** | Inspecting line items, customer details & existing payment commitments |
+| **0:45 - 0:50** | Payment Modal | **💳 RAZORPAY GATEWAY INTEGRATION** | Generating dynamic Razorpay online payment order links directly for unpaid invoices |
+| **0:50 - 0:55** | Order Created | **✅ ORDER CONFIRMATION MODAL** | Razorpay order created with unique Order ID and payment amount |
+| **0:55 - 1:05** | Commitment Tracker | **🔄 COMMITMENT LIFECYCLE TRACKER** | Strict state machine tracking ACTIVE, FULFILLED, BROKEN, PARTIAL & EXPIRED promises |
+| **1:05 - 1:15** | Commitment Filter | **🏷️ COMMITMENT RISK CARDS** | Filtering active payment promises by promised target date & confidence score |
+| **1:15 - 1:22** | Customer Inbox | **📥 COMMUNICATIONS HUB** | Ingesting raw customer emails and chat payment promises |
+| **1:22 - 1:28** | Raw Email | **💬 INBOUND CUSTOMER MESSAGE** | Customer email snippet: "I'll pay ₹30,000 tomorrow and ₹20,000 by Friday" |
+| **1:28 - 1:33** | AI Extractor | **🧠 AI NLP EXTRACTION ENGINE** | Analyzing raw message text to identify promised payment dates and partial amounts |
+| **1:33 - 1:38** | Parsed Promise | **✨ EXTRACTED COMMITMENT DETAILS** | Successfully parsed 2 structured commitments: ₹30,000 (Sep 4) & ₹20,000 (Sep 6) |
+| **1:38 - 1:40** | Extraction Review | **🔍 EXTRACTION PREVIEW** | Previewing extracted structured data before saving to commitment database |
+| **1:40 - 1:45** | Database Saved | **💾 COMMITMENT RECORD SAVED** | Structured commitments active and monitored by automated recovery system |
+| **1:45 - 1:52** | Decision Engine | **⚙️ RECOVERY DECISION ENGINE** | Dynamic risk rules, grace period configurations & escalation thresholds |
+| **1:52 - 1:58** | Risk Policies | **🎯 CUSTOMER RISK PROFILING** | Configuring risk bands (Low/Med/High) & reminder frequency policies |
+| **1:58 - 2:05** | Escalation Gates | **🛡️ POLICY GATES & ESCALATION** | Evaluating confidence scores (≥85%) & reminder limits before dispatching actions |
+| **2:05 - 2:25** | Batch Engine | **⚡ AUTOMATED BATCH EVALUATION** | Scanning all aging accounts, scheduling reminders & computing recovery yield |
+| **2:25 - 2:38** | Exception Center | **⚖️ EXCEPTION RESOLUTION CENTER** | Human-in-the-loop review queue for ambiguous promises & payment disputes |
+| **2:38 - 2:45** | Case Resolved | **👨‍💼 MANUAL RESOLUTION WORKFLOW** | AR Manager reviewing evidence and manually resolving exception case |
+| **2:45 - 2:50** | Audit Log | **🔍 COMPLIANCE AUDIT TRAIL** | Immutable audit log tracking all status transitions, webhooks & user actions |
+| **2:50 - 2:53** | Event Record | **📜 AUDIT EVENT LOG DETAILS** | Inspecting webhook event signatures, payment captures & audit records |
+| **2:53 - 2:57** | Sandbox Date | **⌛ TIME-TRAVEL SIMULATION SANDBOX** | Advancing system date (+1d / +3d) to test commitment deadline expiration |
+| **2:57 - 2:59** | Breach Triggered | **⏩ DATE FAST-FORWARDED** | System date updated to 2026-09-07 — Unpaid commitment marked BROKEN |
+| **2:59 - 3:02** | Razorpay Webhook | **🔒 RAZORPAY WEBHOOK SIMULATOR** | Simulating Razorpay payment.captured webhook with HMAC SHA256 signature verification |
+| **3:02 - 3:05** | Reconciled | **🎉 REAL-TIME AUTO-RECONCILIATION** | Payment reconciled, commitment marked FULFILLED, invoice balance updated! |
+| **3:05 - 3:10** | Outro Card | **✅ DEMO WALKTHROUGH COMPLETE** | Turn informal payment promises into auto-reconciled cash. |
 
 ---
 
-### [2:45 - 3:00] Audit Trail & Webhook Simulator Sandbox
-> *"Every single event is recorded in an immutable Audit Trail for compliance. In our Live Sandbox, we can fast-forward system dates or simulate Razorpay bank webhooks with HMAC SHA256 signature verification for automated real-time payment reconciliation."*
-
----
-
-### [3:00 - 3:10] Conclusion & Submission Outro
-> *"COMMIT bridges the gap between invoice issuance and cash realization. Thank you for reviewing COMMIT!"*
+### 📥 Download Link:
+👉 **[`COMMIT_Submission_Demo_3Min.mp4`](file:///d:/AI%20Promise/COMMIT_Submission_Demo_3Min.mp4)** *(10.2 MB Subtitled Video)*
